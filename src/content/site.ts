@@ -6,7 +6,7 @@ export const site = {
   name: "Bower Place",
   legalName: "Bower Place Consulting",
   descriptor: "Public Sector Consulting",
-  url: "https://bowerplace-ledger.vercel.app",
+  url: "https://bowerplaceconsulting2.vercel.app",
   email: "hello@bowerplaceconsulting.com",
   phone: "+44 7944 893333",
   phoneHref: "tel:+447944893333",
